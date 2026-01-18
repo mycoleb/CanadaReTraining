@@ -1,0 +1,4 @@
+# Keep code LF
+*.py text eol=lf
+# CSVs LF (mostly irrelevant if ignored, but fine)
+*.csv text eol=lf
